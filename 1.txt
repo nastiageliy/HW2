@@ -1,0 +1,22 @@
+<TEI>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+         <title>Искендер-бек</title>
+         </titleStmt>
+         <respStmt>
+            <persName>Кулакова Анастасия</persName>
+            <resp>создание TEI документа, выполнение разметки прямой речи</resp>
+         </respStmt>
+      </fileDesc>
+   </teiHeader>
+   <text>
+   <speech>
+   <said type="direct" aloud="true" who="undefined">А Искендер-бек?</said>
+   <author_comment>-<speech_verb semantic="speech">сказал</speech_verb>кто-то в толпе.</author_comment>
+   <said type="direct" aloud="true" who="all">-В самом деле!</said>
+   <author_comment>-<speech_verb semantic="speech">подхватили</speech_verb>многие голоса.</author_comment>
+   <said type="direct" aloud="true" who="undefined">-А Искендер-бек-то на что? Да как это мы его забыли, как пропустили розу между цветами, сокола между птицами? Аллах, аллах! Или у нас жар-то весь мозг из головы вытопил? Это странно! Это непостижимо!</said> Это удивительно!
+   </speech>
+   </text>
+</TEI>
